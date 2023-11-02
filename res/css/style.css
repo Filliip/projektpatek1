@@ -37,8 +37,8 @@ body{
 }
 button{
   border-radius: 50px;
-  height: 50px;
-  width: 175px;
+  height: 70px;
+  width: 255px;
   font-size: 30px;
   border: none;
   transition: 300ms; 
@@ -53,7 +53,7 @@ button:hover{
 }
 .bugu{
   border-radius: 50px;
-  height: 50px;
+  height: 70px;
   width: 175px;
   font-size: 30px;
   border: none;
@@ -64,4 +64,24 @@ button:hover{
 .baron{
   margin-top: auto;
  
+}
+
+.bugu3{
+  border-radius: 50px;
+  height: 70px;
+  width: 255px;
+  font-size: 30px;
+  border: none;
+  transition: 300ms;  
+  margin-top: 15%;
+}
+
+.bugu2{
+  border-radius: 50px;
+  height: 70px;
+  width: 255px;
+  font-size: 30px;
+  border: none;
+  transition: 300ms;  
+  margin-top: 15%;
 }
